@@ -1,0 +1,173 @@
+*{margin: 0px;
+
+}
+body{
+	font-family: 'Open Sans',Sans-serif;
+}
+.ocean{
+	background: url(images/header_bg.jpg);
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: left top;
+    height: 700px;
+
+}
+
+.relaxr {
+	font-family:"Open Sans";
+	font-size: 24px;
+	font-weight: 800;
+	color: white;
+	padding-top: 20px;
+	margin-left:10%;
+}
+.back{
+	font-family: "Open Sans";
+	font-size: 24px;
+	font-weight:lighter;
+	color: white;
+	margin-left:330px;
+
+}
+.bike{
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-weight:bolder;
+	color:#033048;
+	border-radius:5px;
+	border: none;
+	margin-top:10%;
+	margin-left:45%;
+	background-color: #f9e42e;
+	padding: 1%;
+	width: 150px;
+	height: 40px;
+	text-align: center;
+	line-height: 10px;
+
+
+
+
+
+}
+.bae{
+	font-family:"Open Sans"
+	background-color:#f0efef
+	background: #f0efef;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+.iphone{
+	font-family: "Open Sans";
+	font-size:20px;
+	font-weight:bolder;
+	color:#033048;
+
+
+}
+.meds{font-family:"Open Sans";
+font-size: 13px;
+font-weight:lighter;
+color: #606161;
+
+
+}
+.post{font-family:"Open Sans";
+font-size:13px; 
+font-weight:lighter;
+color:#606161;
+
+
+
+}
+.try{font-family: "Open Sans";
+font-size:13px; 
+font-weight:lighter;
+color:#606161;
+background-image:url("Images/testimonial_bg.jpg");
+
+}
+.pencil{font-family: "Open Sans";
+font-size:18px; 
+font-weight:lighter;
+color:#f0efef;
+text-align:center;
+font-style: italic;
+}
+.music{font-family: "Open Sans";
+font-size:18px; 
+font-weight:bold;
+color:#f0efef;
+text-align: center;
+margin:auto;
+padding-bottom: 30px;
+
+
+}
+.button{
+	font-size:12px; 
+	font-weight:bolder;
+	background-color:#033048;
+	text-align: center;
+	display: block;
+	margin:0 auto;
+	color: white;
+	border-radius: 5px;
+	width: 180px;
+	height:40px;
+}
+.button2{
+	background-color:#f9e42e;
+	background-size: cover;
+}
+
+.look{font-family: "Open Sans";
+font-size:13px; 
+font-weight:lighter;
+background-color: #121212
+}
+.tricks{font-family: "Open Sans";
+font-size:24px; 
+font-weight:bolder;
+}
+img{
+	width: 30px;
+	height:30px;
+	object-fit: contain;
+}
+.icons{
+	background-color:#121212;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+
+}
+.twitter{
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+	height: 30px;
+}
+.facebook{
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+	height: 30px;
+	padding-left: 17px;
+}
+
+.games{font-family: "Open Sans";
+font-size:9px; 
+font-weight:lighter;
+}
+.tricks,.games{
+	color:white;
+	text-align: center;
+
+
+
+}
